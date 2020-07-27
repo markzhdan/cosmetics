@@ -91,6 +91,14 @@ public class InventoryClick implements Listener
                 updateColor(player, "BLUE_WOOL");
                 player.sendMessage(ChatColor.BLUE + "Blue Wool Selected");
                 break;
+            case 4:
+                updateColor(player, "YELLOW_WOOL");
+                player.sendMessage(ChatColor.YELLOW + "Yellow Wool Selected");
+                break;
+            case 5:
+                updateColor(player, "GREEN_WOOL");
+                player.sendMessage(ChatColor.GREEN + "Green Wool Selected");
+                break;
             default:
                 System.out.println("error");
         }

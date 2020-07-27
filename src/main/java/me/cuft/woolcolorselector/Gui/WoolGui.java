@@ -28,6 +28,8 @@ public class WoolGui implements Listener
         inv.addItem(createGuiItem(Material.BLACK_WOOL, "§0Black Wool"));
         inv.addItem(createGuiItem(Material.RED_WOOL, "§4Red Wool"));
         inv.addItem(createGuiItem(Material.BLUE_WOOL, "§1Blue Wool"));
+        inv.addItem(createGuiItem(Material.YELLOW_WOOL, "§eYellow Wool"));
+        inv.addItem(createGuiItem(Material.GREEN_WOOL, "§aGreen Wool"));
     }
 
     // Nice little method to create a gui item with a custom name, and description
