@@ -1,0 +1,7 @@
+name: WoolColorSelector
+version: ${project.version}
+main: me.cuft.woolcolorselector.WoolColorSelector
+api-version: 1.16
+commands:
+  wool:
+    description: change wool color easily
