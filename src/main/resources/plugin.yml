@@ -1,7 +1,9 @@
-name: WoolColorSelector
+name: MorvenCosmetics
 version: ${project.version}
-main: me.cuft.woolcolorselector.WoolColorSelector
+main: me.cuft.MorvenCosmetics.Main
 api-version: 1.16
 commands:
-  wool:
-    description: change wool color easily
+  cosmetics:
+    description: Cosmetic Chooser
+  setcurrency:
+    description: Sets the currency wanting to be used
