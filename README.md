@@ -1,4 +1,4 @@
-# MCSpigot-MorvenCosmetics
+# Cosmetics
 >One of my big projects...
 
 Minecraft Spigot plugin for Morven SMP that added player cosmetic rewards.
